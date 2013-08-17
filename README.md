@@ -8,6 +8,4 @@ Not much to talk about here: cross browser RTL StarWars Scroller. you have seen 
 
 Live Demo
 ------------
-Live Demo
-
- [1]: http://www.internet-israel.com/internet_files/omri/       "Live Demo"
+Live Demo: http://www.internet-israel.com/internet_files/omri/   
